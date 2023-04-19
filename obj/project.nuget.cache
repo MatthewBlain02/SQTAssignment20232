@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "GZqgtn7YVwH6Mc3IV21ByUWc78PkoSN3jYymfinaYo2YDj1PR/UufAM9EWoObD3YnxiIxqh+HVRY1bqOd4Th0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\blitz\\OneDrive - Atlantic TU\\OOD\\week4\\SQTAssignment\\SQTAssignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\blitz\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\blitz\\.nuget\\packages\\moq\\4.18.4\\moq.4.18.4.nupkg.sha512",
+    "C:\\Users\\blitz\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\blitz\\.nuget\\packages\\nunit3testadapter\\4.4.2\\nunit3testadapter.4.4.2.nupkg.sha512",
+    "C:\\Users\\blitz\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\blitz\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
